@@ -23,7 +23,7 @@ export default function Home() {
               </h1>
               <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
                 capture your favorite memmories with your own,{""}
-                <span className="font-semibold ">one-of-one</span>phone case.
+                <span className="font-semibold ">one-of-one</span> phone case.
                 CaseCobra allows you to protect your memmories,not just your
                 phone case.
               </p>
@@ -87,7 +87,7 @@ export default function Home() {
             </div>
           </div>
           <div
-            className="col-span-full lg:col-span-1 w-full flex justify-center px-8 sm:px-16 md:px-0 md:mt-0 lg:px-0 lg:mt-20
+            className="col-span-full lg:col-span-1 w-full flex justify-center px-8 sm:px-16 md:px-0 mt-32 lg:mx-0 lg:mt-20
           h-fit "
           >
             
